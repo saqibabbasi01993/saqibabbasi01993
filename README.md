@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Saqib 👋</h1>
 <h3 align="center">WordPress Developer · Approved WordPress.org Plugin Developer · Top Rated on Freelancer.com</h3>
-<p align="center">Founder of <a href="https://skfreelancers.com">SK Freelancers</a> · Taxila, Pakistan 🇵🇰</p>
+<p align="center">Founder of <a href="https://skfreelancers.com">SKFreelancers</a> · Taxila, Pakistan 🇵🇰</p>
 
 <p align="center">
   <a href="https://skfreelancers.com"><img src="https://img.shields.io/badge/Website-skfreelancers.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
