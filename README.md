@@ -14,7 +14,7 @@ I'm a full-time WordPress developer. I build custom sites, themes and plugins wi
 
 <p>
   <img src="https://img.shields.io/badge/Rating-4.99%2F5-FFB400?style=flat-square&logo=freelancer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Reviews-378-29B2FE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Reviews-487-29B2FE?style=flat-square"/>
   <img src="https://img.shields.io/badge/Jobs%20completed-390-2EA44F?style=flat-square"/>
   <img src="https://img.shields.io/badge/Completion%20rate-99.7%25-2EA44F?style=flat-square"/>
   <img src="https://img.shields.io/badge/On%20time-94%25-0A66C2?style=flat-square"/>
