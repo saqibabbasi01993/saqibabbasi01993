@@ -1,25 +1,76 @@
 <h1 align="center">Hi, I'm Saqib 👋</h1>
-<h3 align="center">WordPress & LearnDash plugin developer at <a href="https://skfreelancers.com">SK Freelancers</a></h3>
+<h3 align="center">WordPress Developer · Approved WordPress.org Plugin Developer · Top Rated on Freelancer.com</h3>
+<p align="center">Founder of <a href="https://skfreelancers.com">SK Freelancers</a> · Taxila, Pakistan 🇵🇰</p>
 
 <p align="center">
   <a href="https://skfreelancers.com"><img src="https://img.shields.io/badge/Website-skfreelancers.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://profiles.wordpress.org/saqibabbasi/"><img src="https://img.shields.io/badge/WordPress.org-saqibabbasi-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
-  <a href="https://github.com/saqibabbasi01993"><img src="https://img.shields.io/badge/GitHub-saqibabbasi01993-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.freelancer.com/u/saqibabbasi01993"><img src="https://img.shields.io/badge/Freelancer-Hire%20me-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/></a>
 </p>
 
-I build WordPress plugins that extend **LearnDash** and **Contact Form 7**, plus document verification tools. **7 plugins** are published on the [WordPress.org plugin directory](https://profiles.wordpress.org/saqibabbasi/#content-plugins), and the code for each one is open source here.
+I'm a full-time WordPress developer. I build custom sites, themes and plugins with Elementor, Avada, WooCommerce, LearnDash and IDX. I've published **7 plugins** on [WordPress.org](https://profiles.wordpress.org/saqibabbasi/#content-plugins) for LearnDash and Contact Form 7, and their code is open source here.
 
-## 🛠️ Tech stack
+## 🏆 Freelance track record
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Rating-4.99%2F5-FFB400?style=flat-square&logo=freelancer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reviews-378-29B2FE?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Jobs%20completed-390-2EA44F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Completion%20rate-99.7%25-2EA44F?style=flat-square"/>
+  <img src="https://img.shields.io/badge/On%20time-94%25-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/On%20budget-94%25-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Member%20since-Dec%202016-555?style=flat-square"/>
+</p>
+
+**Freelancer.com exams passed:** Preferred Freelancer Program SLA (100%) · WordPress (92%) · PHP Level 1 · JavaScript Level 1 · US & UK English Level 1  
+👉 Full profile & reviews: **[freelancer.com/u/saqibabbasi01993](https://www.freelancer.com/u/saqibabbasi01993)**
+
+> *"Saqib did a phenomenal job. Will use again."*
+>
+> *"A+ on time, on budget and on point! will use again."*
+>
+> *"This is the second project I have worked with this Freelancer - and the results have always been excellent. Would highly recommend"*
+>
+> — Freelancer.com client reviews
+
+## 💼 What I do
+
+- **WordPress development:** custom sites, themes built from scratch, and theme customization (Astra, OceanWP, Elementor, Avada, WPBakery)
+- **Plugin development:** custom WordPress plugins, plus LearnDash course sites
+- **Real estate sites:** IDX Broker / Showcase IDX integration
+- **Migrations & conversions:** moves to a new host; Wix, Shopify, Joomla, HTML or PHP to WordPress
+- **Maintenance & security:** speed optimization (GTmetrix, PageSpeed), malware cleanup, restoring hacked sites, fixing errors and broken links
+- **eCommerce & marketing:** WooCommerce and Shopify product uploads, on-page SEO, Facebook and Google campaign setup
+
+## 🧰 Skills
+
+**Web development**  
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=flat-square&logo=elementor&logoColor=white)
+![Avada](https://img.shields.io/badge/Avada-65BC7B?style=flat-square)
 ![LearnDash](https://img.shields.io/badge/LearnDash-00A2E8?style=flat-square)
 ![Contact Form 7](https://img.shields.io/badge/Contact%20Form%207-3A7BD5?style=flat-square)
+![IDX](https://img.shields.io/badge/IDX%20Broker-1F4E79?style=flat-square)
 ![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+
+**Performance, hosting & SEO**  
+![Page Speed](https://img.shields.io/badge/Page%20Speed%20Optimization-4285F4?style=flat-square&logo=pagespeedinsights&logoColor=white)
+![Web Hosting](https://img.shields.io/badge/Web%20Hosting-555?style=flat-square)
+![SEO](https://img.shields.io/badge/On--page%20SEO-47A248?style=flat-square)
+![Web Scraping](https://img.shields.io/badge/Web%20Scraping-6E40C9?style=flat-square)
+
+**Design, marketing & data**  
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Logo Design](https://img.shields.io/badge/Logo%20Design-E4405F?style=flat-square)
+![Digital Marketing](https://img.shields.io/badge/Digital%20Marketing-1877F2?style=flat-square&logo=meta&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel%20%2F%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+![QuickBooks](https://img.shields.io/badge/QuickBooks-2CA01C?style=flat-square&logo=quickbooks&logoColor=white)
 
 ## 🔌 WordPress plugins
 
